@@ -1,0 +1,4 @@
+baseURL = "https://jehoshua02.github.io"
+languageCode = "en-us"
+title = "Joshua Stoutenburg"
+theme = "hugo-theme-bleak"
