@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Joshua Stoutenburg</title>
+    <link>https://jehoshua02.github.io/post/</link>
+    <description>Recent content in Posts on Joshua Stoutenburg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jun 2017 22:31:37 -0600</lastBuildDate>
+    
+	<atom:link href="https://jehoshua02.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Good to Great Book Review</title>
+      <link>https://jehoshua02.github.io/post/good-to-great/</link>
+      <pubDate>Tue, 20 Jun 2017 22:31:37 -0600</pubDate>
+      
+      <guid>https://jehoshua02.github.io/post/good-to-great/</guid>
+      <description>I read Good to Great in January 2016. An awesome read sharing detailed analysis on how good companies became great.</description>
+    </item>
+    
+  </channel>
+</rss>
