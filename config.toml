@@ -2,3 +2,29 @@ baseURL = "https://jehoshua02.github.io/"
 languageCode = "en-us"
 title = "Joshua Stoutenburg"
 theme = "hugo-theme-bleak"
+comments = true
+
+[params]
+# logo = "/images/logo.png"
+# Subtitle = "Your subtitle !"
+description = "Everything is awesome !"
+cover = "/images/cover.png"
+
+# Google analytics
+# googleAnalyticsUserID = "UA-xxxxxxxx-x"
+# domainVerification = "xxxxxxxxxxxxxxxxxxxxx"
+disqus = "jehoshua02"
+
+[params.author]
+firstName = "Joshua"
+lastName = "Stoutenburg"
+gender = "male"
+userName = "jehoshua02"
+image = "//www.gravatar.com/avatar/20702c85a9b459a9f67b72d1cd93d8a5.png"
+website = "https://jehoshua02.github.io"
+twitter = "jstoutenburg"
+github = "jehoshua02"
+# facebook = "xxxxxxxxx"
+linkedin = "jstoutenburg"
+gplus = "+JoshuaStoutenburg"
+gravatarHash = "20702c85a9b459a9f67b72d1cd93d8a5"
